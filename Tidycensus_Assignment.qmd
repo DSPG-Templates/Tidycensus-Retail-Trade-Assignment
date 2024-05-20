@@ -1,0 +1,11 @@
+---
+title: "Tidycensus and Retail Trade Exercise"
+author: "Group Number"
+format: html
+---
+
+Use this document to complete your code.
+```{r}
+library(tidycensus)
+```
+
