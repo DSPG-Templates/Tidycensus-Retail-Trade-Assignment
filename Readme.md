@@ -1,4 +1,4 @@
-## Activity Goal
+## Activity Objectives
 
 The goal of this activity will be to demonstrate your ability to work
 with the `tidycensus` API to pull data from the US Census Bureau and to
